@@ -6,5 +6,5 @@
     "lib": ["ES2018"]
   },
   "files": [],
-  "include": []
+  "include": ["**/*.ts"]
 }
